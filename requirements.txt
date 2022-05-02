@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+requests==2.24.0
+telebot==0.0.4
+pyTelegramBotAPI==3.8.2
+imgkit==1.2.2
+wkhtmltopdf==0.2
